@@ -2,6 +2,8 @@
 
 Chat with docs allows users to chat with PDF documents. The project is designed to provide a seamless chat experience where users can upload PDF files and interact with an AI assistant in the context of uploaded documents. 
 
+![Demo](https://github.com/shrikale32/chatwithdocs/blob/main/ezgif.com-gif-maker.gif)
+
 ![Application Architecture](<Screen Shot 2023-11-06 at 10.12.52 AM.png>)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
