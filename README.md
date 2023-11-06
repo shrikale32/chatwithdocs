@@ -4,6 +4,10 @@ Chat with docs allows users to chat with PDF documents. The project is designed 
 
 ![Demo](https://github.com/shrikale32/chatwithdocs/blob/main/ezgif.com-gif-maker.gif)
 
+Video Demo Link: https://www.loom.com/share/3de7912fdf3145998d1a4a62fbe59725?sid=7f9050dd-e069-4150-ad6b-2d87f82e92b4
+
+## Application Architecture
+
 ![Application Architecture](<Screen Shot 2023-11-06 at 10.12.52 AM.png>)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
